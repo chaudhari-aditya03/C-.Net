@@ -12,3 +12,4 @@ C:\Users\ASUS\Desktop\MSC Computer Science All Materials\SEM 1\C#.net\Practicle\
 C:\Users\ASUS\Desktop\MSC Computer Science All Materials\SEM 1\C#.net\Practicle\obj\Debug\net9.0\Practicle.pdb
 C:\Users\ASUS\Desktop\MSC Computer Science All Materials\SEM 1\C#.net\Practicle\obj\Debug\net9.0\Practicle.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\MSC Computer Science All Materials\SEM 1\C#.net\Practicle\obj\Debug\net9.0\ref\Practicle.dll
+C:\Users\ASUS\Desktop\MSC Computer Science All Materials\SEM 1\C#.net\Practicle\obj\Debug\net9.0\Practicle.sourcelink.json
