@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\MSC Computer Science All Materials\SEM 1\C#.net\Practicle\bin\Debug\net9.0\Practicle.exe
+C:\Users\ASUS\Desktop\MSC Computer Science All Materials\SEM 1\C#.net\Practicle\bin\Debug\net9.0\Practicle.deps.json
+C:\Users\ASUS\Desktop\MSC Computer Science All Materials\SEM 1\C#.net\Practicle\bin\Debug\net9.0\Practicle.runtimeconfig.json
+C:\Users\ASUS\Desktop\MSC Computer Science All Materials\SEM 1\C#.net\Practicle\bin\Debug\net9.0\Practicle.dll
+C:\Users\ASUS\Desktop\MSC Computer Science All Materials\SEM 1\C#.net\Practicle\bin\Debug\net9.0\Practicle.pdb
+C:\Users\ASUS\Desktop\MSC Computer Science All Materials\SEM 1\C#.net\Practicle\obj\Debug\net9.0\Practicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\MSC Computer Science All Materials\SEM 1\C#.net\Practicle\obj\Debug\net9.0\Practicle.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\MSC Computer Science All Materials\SEM 1\C#.net\Practicle\obj\Debug\net9.0\Practicle.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\MSC Computer Science All Materials\SEM 1\C#.net\Practicle\obj\Debug\net9.0\Practicle.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\MSC Computer Science All Materials\SEM 1\C#.net\Practicle\obj\Debug\net9.0\Practicle.dll
+C:\Users\ASUS\Desktop\MSC Computer Science All Materials\SEM 1\C#.net\Practicle\obj\Debug\net9.0\refint\Practicle.dll
+C:\Users\ASUS\Desktop\MSC Computer Science All Materials\SEM 1\C#.net\Practicle\obj\Debug\net9.0\Practicle.pdb
+C:\Users\ASUS\Desktop\MSC Computer Science All Materials\SEM 1\C#.net\Practicle\obj\Debug\net9.0\Practicle.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\MSC Computer Science All Materials\SEM 1\C#.net\Practicle\obj\Debug\net9.0\ref\Practicle.dll
